@@ -24,3 +24,5 @@ We believe in full transparency and encourage all users to review our official d
 - **[Terms of Service](https://github.com/nom-codecat/Project-Lyra/blob/main/Lyra_bot_Tos.md)**
 
 We hope these examples provide confidence in our approach to data security. Thank you for using Lyra.
+
+*exclaimer: as of now lyra is not discoverable on discord and in her beta
