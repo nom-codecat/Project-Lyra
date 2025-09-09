@@ -28,4 +28,6 @@ We hope these examples provide confidence in our approach to data security. Than
 
 ### Lyra Beta Access
 
-*exclaimer: as of now lyra is not discoverable on discord and in her beta, so in beta she's only available in dm's and you should expect bugs and Inconsistencies.
+Officially, Lyra is in her 'open beta 2.0' testing phase, with no stable '1.0' release date currently set.
+
+**Note:** During this open beta, Lyra is only available for use in Direct Messages.
