@@ -19,7 +19,7 @@ As a small development team, we believe in transparency and want to provide a gl
 We believe in full transparency and encourage all users to review our official documentation and policies.
 
 - **[Official Documentation]()**
-- **[Privacy Policy](/nom-codecat/Project-Lyra/blob/main/Lyra%20Discord%20Bot%20-%20Documentation_use%20instructions.md)**
+- **[Privacy Policy]([/nom-codecat/Project-Lyra/blob/main/Lyra%20Discord%20Bot%20-%20Documentation_useinstructions.md](https://github.com/nom-codecat/Project-Lyra/blob/main/Lyra%20Discord%20Bot%20-%20Documentation_use%20instructions.md))**
 - **[Terms of Service](link-to-your-tos.md)**
 - **[Join our Discord Server](link-to-your-discord-server)**
 
