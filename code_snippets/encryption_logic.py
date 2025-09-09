@@ -128,4 +128,4 @@ if __name__ == "__main__":
         print("\nEncrypted content in file (looks like gibberish):")
         print(encrypted_content)
 
-# as you could think the actual memories are not just dictionaries but json files that also include the persona_data
+# as you could think the actual memories are not just dictionaries but json/bin files that also include the persona_data
