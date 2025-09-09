@@ -22,7 +22,10 @@ We believe in full transparency and encourage all users to review our official d
 - **[Official Documentation](https://github.com/nom-codecat/Project-Lyra/blob/main/Lyra%20Discord%20Bot%20-%20Documentation_use%20instructions.md)**
 - **[Privacy Policy](https://github.com/nom-codecat/Project-Lyra/blob/main/Lyra_bot_Privacy_Policy.md)**
 - **[Terms of Service](https://github.com/nom-codecat/Project-Lyra/blob/main/Lyra_bot_Tos.md)**
+- **[Open-Beta information]()**
 
 We hope these examples provide confidence in our approach to data security. Thank you for using Lyra.
+
+### Lyra Beta Access
 
 *exclaimer: as of now lyra is not discoverable on discord and in her beta, so in beta she's only available in dm's and you should expect bugs and Inconsistencies.
