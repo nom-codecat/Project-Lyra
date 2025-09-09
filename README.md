@@ -15,6 +15,10 @@ As a small development team, we believe in transparency and want to provide a gl
 - **Industry-Standard Encryption:** We use `Fernet` encryption to protect all user data, both text and images, at rest.
 - **Commitment to Privacy:** Our code is designed to never hard-code sensitive information like API keys or bot tokens.
 
+### Lyra Beta Access
+
+Officially, Lyra is in her 'open beta 2.0' testing phase, with no stable '1.0' release date currently set.
+
 ### For More Information
 
 We believe in full transparency and encourage all users to review our official documentation and policies.
@@ -26,8 +30,5 @@ We believe in full transparency and encourage all users to review our official d
 
 We hope these examples provide confidence in our approach to data security. Thank you for using Lyra.
 
-### Lyra Beta Access
-
-Officially, Lyra is in her 'open beta 2.0' testing phase, with no stable '1.0' release date currently set.
 
 **Note:** During this open beta, Lyra is only available for use in Direct Messages.
