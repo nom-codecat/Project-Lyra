@@ -11,4 +11,4 @@ You can report bugs directly to [us]() or alternatively, you can submit your fee
 
 **Note:** 
 - The slash commands may take a few minutes to appear after you first add the bot to your account.
-- The [User Feedback Form]() form is primarily for feedback on usability, suggestions, and your overall experience with Lyra.
+- The [User Feedback Form]((https://docs.google.com/forms/d/e/1FAIpQLSd0YhbTpnh32KW_4aYGspDyvVPWQPaM1Lh3uK_ZBq7iPoxbbQ/viewform?usp=header)) form is primarily for feedback on usability, suggestions, and your overall experience with Lyra.
