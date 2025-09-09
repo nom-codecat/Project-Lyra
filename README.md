@@ -14,7 +14,7 @@ Our commitment to not hard-coding sensitive information.
 For More Information
 We believe in full transparency and encourage all users to review our official documentation and policies.
 
-Documentation: [Lyra Discord Bot-Documentation_use_instructions]
+[Documentation]: (Lyra Discord Bot-Documentation_use_instructions)
 
 Privacy Policy: [Link to your Privacy Policy]
 
