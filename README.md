@@ -3,6 +3,7 @@
 Welcome to the public code examples for Lyra, a private AI Discord bot.
 
 This repository is designed to showcase Lyra's commitment to user data privacy and security. It is **not** the full source code for the bot.
+Most snippets are mere examples.
 
 ---
 
