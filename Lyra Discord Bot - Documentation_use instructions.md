@@ -47,7 +47,7 @@ These commands allow you to set specific aspects of Lyra's personality.
       * humorous: Incorporates light humor and wit.  
       * serious: Grave and earnest, focuses strictly on facts.  
       * empathetic: Understanding, compassionate, acknowledges feelings.
-      * sassy : shes sassy thats all.
+      * sassy : she's sassy thats all.
     * **verbosity**: Controls how much detail Lyra provides.  
       * concise: Brief, to-the-point answers.  
       * standard: Moderately detailed answers.  
