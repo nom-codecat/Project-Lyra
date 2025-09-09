@@ -6,7 +6,7 @@ You can invite Lyra to your DMs by clicking the link below:
 
 ### Feedback (Report bugs, your experience)
 
-You can report bugs directly to [us]() or alternatively, you can submit your feedback directly on [GitHub]() or by using our [User Feedback Form]().
+You can report bugs directly to [us]() or alternatively, you can submit your feedback on [GitHub]() or by using our [User Feedback Form]().
 
 
 **Note:** 
