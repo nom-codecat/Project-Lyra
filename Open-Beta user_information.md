@@ -2,7 +2,7 @@
 
 You can invite Lyra to your DMs by clicking the link below:
 
-[Lyra DM-Invite](https://discord.com/oauth2/authorize?client_id=1385335501912932536&permissions=139586824256&integration_type=1&scope=bot+applications.commands)
+[Lyra DM-Invite](https://discord.com/oauth2/authorize?client_id=1385335501912932536&permissions=139586824256&integration_type=1&scope=applications.commands)
 
 ### Feedback (Report bugs, your experience)
 
