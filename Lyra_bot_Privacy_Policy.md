@@ -33,7 +33,7 @@ Your collected information is used solely for the purpose of operating and impro
 
 * **Local Storage:** All your data (conversation history, personality settings, images) is stored locally on the machine where Lyra is being run, within the user\_memories directory. It is not stored on remote servers managed by the bot developer, unless the user explicitly downloads it and stores it elsewhere.  
 * **Google Generative AI API:** When you interact with Lyra, your messages (text and images) and a synthesized "system instruction" based on your personality settings are sent to the Google Generative AI API for processing. Google's API usage policies apply to this data in transit and during processing for the purpose of generating responses. We do not retain this data on Google's servers beyond the immediate interaction necessary for a response.  
-* **No End-to-End Encryption:** While data is stored locally, it is not encrypted by Lyra itself. The security of the data depends on the security of the device running the bot.  
+* **Data Encryption:** All user data, including conversation history, personality settings, and images, is now encrypted and stored locally on the device running the bot.
 * **Access Control:** The data files are typically accessible only to the owner of the machine running the bot.
 
 ## **4\. Your Data Rights**
