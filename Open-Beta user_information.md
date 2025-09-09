@@ -6,6 +6,6 @@ You can invite Lyra to your DM's by clicking the link below:
 
 ### Feedback (Report bugs, your experience)
 
-You can Report bugs directly to the [Author]() or the [assistance](), additionally you can do that directly on github or in our [Google-Docs-User-Feedback-Form]().
+You can Report bugs directly to the [Author]() or the [Assistance]() on Discord. Additionally you can do that directly on github or in our [Google-Docs-User-Feedback-Form]().
 
 **Note:** The bot requires `Manage Server` permissions to be invited, and the slash commands may take a few minutes to appear after it joins.
