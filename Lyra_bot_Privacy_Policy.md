@@ -1,6 +1,6 @@
 # **Lyra Discord Bot \- Privacy Policy**
 
-Last Updated: June 20, 2025
+Last Updated: September 9th, 2025
 
 This Privacy Policy describes how the Lyra Discord Bot ("Lyra," "the Bot," "we," "us," or "our") collects, uses, and stores your information.
 
