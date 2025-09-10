@@ -17,7 +17,7 @@ As a small development team, we believe in transparency and want to provide a gl
 
 ### Lyra Beta Access
 
-Officially, Lyra is in her 'open beta 2.0' testing phase, with no stable '1.0' release date currently set.(*testing phase starts 2026)
+Officially, Lyra is in her 'open beta 2.0' testing phase, with no stable '1.0' release date currently set. (testing phase starts 2026)
 
 ### For More Information
 
